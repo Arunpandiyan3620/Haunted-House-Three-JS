@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/c2b04a3b-4f18-466d-8506-9c47cbaf07ac
 # Three.js Journey
 
 ## Setup
@@ -14,3 +16,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+Uploading haunted-house.mp4…
